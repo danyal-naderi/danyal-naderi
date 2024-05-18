@@ -10,10 +10,11 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-
-
 ## 𝙈𝙔 𝘼𝘾𝙏𝙄𝙑𝙄𝙏𝙔
 <img style="width:450px; height:210px;" src="https://github-readme-stats.vercel.app/api?username=danyal-naderi&show_icons=true&theme=dark"/>
 
 ## 𝙈𝙔 𝙋𝙍𝙊𝙅𝙀𝘾𝙏𝙎 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀
 <img style="width:450px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyal-naderi&layout=compact"/>
+
+<h2>𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙀 📞</h2>
+<a href="https://t.me/danyal_naderi"><img src="https://github.com/danyal-naderi/danyal-naderi/blob/main/icons8-telegram-app-48.png?raw=true"/></a>
