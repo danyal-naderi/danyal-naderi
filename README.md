@@ -17,4 +17,5 @@
 <img style="width:450px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyal-naderi&layout=compact"/>
 
 <h2>𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙀 📞</h2>
-<a href="https://t.me/danyal_naderi"><img src="https://github.com/danyal-naderi/danyal-naderi/blob/main/icons8-telegram-app-48.png?raw=true"/></a>
+<a href="https://t.me/danyal_naderi"><img src="https://github.com/danyal-naderi/danyal-naderi/blob/main/icons8-telegram-app-48.png?raw=true" alt="telegram"/></a> 
+<a href="https://wa.me/+989194584486"><img src="https://github.com/danyal-naderi/danyal-naderi/blob/main/icons8-whatsapp-48.png?raw=true" alt="whatsapp"/></a> 
